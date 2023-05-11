@@ -1,4 +1,5 @@
 #!home /kshitij
+#code for printing the lower rgt angled isoceles triangle
 echo enter n
 read $var
 va=0;
