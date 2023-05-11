@@ -1,7 +1,7 @@
 #!home /kshitij
 #code for printing the lower rgt angled isoceles triangle
 echo enter n
-read $var
+read var
 va=0;
 i=1;
 for (( i=1 ; i<=$var ; i++)); 
