@@ -1,5 +1,5 @@
 #! home/kshitij
-#printg the 1st argument in a commandline else printing forturn piped with cowsay
+#printg the 1st argument in a commandline else printing fortune piped with cowsay
 #if arg1 is null
 if [ -z "$1"]
 then
